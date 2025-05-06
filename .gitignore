@@ -1,3 +1,7 @@
+# Ignore pdf files
 *.pdf
+
+# Practice and supplement files
 notes.md
+practice.py
 
